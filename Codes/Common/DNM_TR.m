@@ -55,4 +55,3 @@ end
 % figure(1); plot(llarr,'r'); hold on; plot(trr_arr); hold off;
 % legend('Lambda','Trace ratio');
 end
-
